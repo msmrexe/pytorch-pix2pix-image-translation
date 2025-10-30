@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-freeze.txt
+pip-selfcheck.json
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# Data
+*.csv
+*.zip
+*.jpg
+*.png
+cityscapes_pix2pix_dataset/
+
+# Logs & Outputs
+logs/
+outputs/
+models/
+
+# OS
+.DS_Store
+Thumbs.db
